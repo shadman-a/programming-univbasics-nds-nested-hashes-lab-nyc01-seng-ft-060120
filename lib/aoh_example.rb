@@ -15,7 +15,7 @@ def assembled_aoh
     KATE_G,
     BRUCE_G
   ]
-
+p aoh.sort!
 end
 
 def literal_aoh
